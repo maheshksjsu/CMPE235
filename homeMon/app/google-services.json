@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "300824582913",
+    "firebase_url": "https://homemon.firebaseio.com",
+    "project_id": "homemon",
+    "storage_bucket": "homemon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300824582913:android:f9f1b57ce5c31d4c",
+        "android_client_info": {
+          "package_name": "net.dreamsw.homemon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300824582913-62m5hkdc9h2kcimnuevseis5q1ucbu72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx6hhVYNUzqesko-ID7VlWlOuXjfQ_zpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300824582913-62m5hkdc9h2kcimnuevseis5q1ucbu72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
